@@ -1,0 +1,40 @@
+/** @format */
+
+.nav-link {
+  font-size: 16px;
+  color: white !important;
+}
+
+.sty {
+  color: #44d6e9 !important;
+}
+
+.main {
+  font-weight: bolder;
+  margin-left: 0%;
+  font-size: 36px;
+  color: white !important;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.headname {
+  color: #44d6e9 !important;
+  margin-left: 15%;
+  font-size: 36px !important;
+  font-weight: bolder;
+  font-family: unset;
+  text-decoration: none !important;
+}
+
+.header--fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1024;
+  background: rgb(33 37 41 / 55%);
+}
+
+a:hover {
+  color: #44d6e9 !important;
+}

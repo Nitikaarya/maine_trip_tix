@@ -1,0 +1,29 @@
+/** @format */
+
+#someid.Window {
+  width: 100%;
+  display: inline;
+}
+/* 
+div.inline{
+    float: ;
+} */
+
+#loader {
+  width: 100px;
+  display: block;
+}
+
+#loader1 {
+  width: 100px;
+  left: 30%;
+  display: block;
+}
+
+#loader2 {
+  width: 100px;
+  left: 70%;
+  display: block;
+}
+
+/* key --- AIzaSyBpnnG9kF9e-XU0DXjJDBYvf-KyCEQlrYI */

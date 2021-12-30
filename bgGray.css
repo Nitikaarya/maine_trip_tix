@@ -1,0 +1,49 @@
+.bgGray {
+    text-align: center;
+    color: darkslategrey;
+    background-color: #fdfafaec;
+  }
+
+.List{
+    text-align: justify;
+    margin-left: 7%;
+    margin-right: 9%;
+    color: darkslategrey;
+    font-size: 14.9px;
+    list-style-type:none;
+}
+
+i{
+  color: #3399ff !important;
+  
+}
+ 
+li{
+  list-style-type: none;
+  font-size:large; 
+}
+
+span{
+  color:#3399ff;
+}
+
+
+/* 
+li:link {
+  color: red;
+}
+
+/* visited link */
+/* li:visited {
+  color: green;
+}
+
+/* mouse over link */
+/* li:hover {
+  color: hotpink;
+} */
+
+/* selected link */
+/* li:active {
+  color: blue;
+} */ 

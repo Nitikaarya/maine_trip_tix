@@ -1,0 +1,29 @@
+/** @format */
+
+.head {
+  margin-top: 20%;
+  color: rgb(145, 143, 143);
+  margin-left: 10%;
+  font-weight: 450;
+}
+
+.text--2 {
+  margin-left: 10%;
+  color: rgb(80, 78, 78);
+  font-weight: 400 !important;
+}
+
+.text--3 {
+  margin-left: 10%;
+}
+
+.form-style {
+  margin-left: 10%;
+}
+
+button {
+  border-radius: 40px !important;
+  width: 22% !important;
+  margin-top: 5% !important;
+  margin-left: 10% !important;
+}

@@ -1,0 +1,16 @@
+.bgNotGray {
+    text-align: center;
+    color: darkslategrey;
+    margin-left: 8%;
+    margin-right: 15%;
+    font-size: 93%;
+  }
+
+i{
+    color: darkslategray !important;
+}
+
+a{
+    color:darkslategray !important;
+    font-weight: unset;
+}

@@ -1,0 +1,122 @@
+/** @format */
+
+.title {
+  text-align: center;
+  margin-top: 2%;
+  /* border-bottom-style: double;
+    display: ruby-base;
+    width: 25%;
+    margin: 10px auto; */
+}
+
+.title::after {
+  border-bottom: 1px solid black;
+}
+
+.mb-4 {
+  font-size: 14px !important;
+  text-align: center;
+  font-weight: bolder !important;
+  text-transform: uppercase;
+}
+
+.block {
+  color: rgb(70, 69, 69) !important;
+  font-size: 15px !important;
+  font-weight: 400;
+  width: 100% !important;
+  display: inline-flex;
+  border-bottom: 2px solid lightgrey !important;
+  margin: 13px auto;
+}
+
+.card-design {
+  width: 30rem;
+  margin-top: 25%;
+  margin-bottom: 3%;
+}
+
+.card2 {
+  width: 30rem;
+  margin-left: 32.5%;
+  overflow: hidden;
+  /* color: rgb(177, 177, 247); */
+  border-color: rgb(202, 202, 202) !important;
+}
+
+.card-design2 {
+  width: 30rem;
+  border-color: rgb(202, 202, 202) !important;
+}
+
+.btn {
+  font-size: xx-small !important;
+  border-radius: 67px !important;
+  margin-left: 20% !important;
+  text-align: center !important;
+  height: 2% !important;
+  text-transform: uppercase;
+  background-color: rgb(53, 52, 52) !important;
+  border-color: gray !important;
+  margin-top: 5%;
+  width: 60%;
+}
+
+.btn:hover {
+  background-color: white !important;
+  color: black !important;
+  border-color: black !important;
+}
+
+.btn1 {
+  font-size: xx-small !important;
+  border-radius: 67px !important;
+  text-transform: uppercase;
+  margin-left: 25% !important;
+  height: 15% !important;
+  background-color: rgb(81, 182, 223) !important;
+  border-color: rgb(81, 182, 223) !important;
+  margin-top: 5%;
+}
+
+.btn1:hover {
+  background-color: rgb(53, 52, 52) !important;
+  color: white !important;
+  border-color: rgb(53, 52, 52) !important;
+}
+
+.icon-style {
+  color: rgb(81, 182, 223);
+  margin-left: 43%;
+  font-size: small !important;
+  font-weight: bolder !important;
+}
+
+.icon-style1 {
+  color: rgb(81, 182, 223);
+  margin-left: 25%;
+  font-size: small !important;
+  font-weight: bold !important;
+}
+
+.icon-style2 {
+  color: rgb(81, 182, 223);
+  margin-left: 13%;
+  font-size: small !important;
+  font-weight: bolder !important;
+}
+
+.tag {
+  background: rgb(81, 182, 223);
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  width: 40%;
+  left: -30px;
+  text-align: center;
+  padding: 2px 25px;
+  position: absolute;
+  top: 16px;
+  transform: rotate(-45deg);
+}
